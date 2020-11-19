@@ -1,3 +1,3 @@
 Projeto Monta Palavras
 
-![](amostra.png)
+![](amostra.PNG)
